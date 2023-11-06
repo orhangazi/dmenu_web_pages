@@ -1,1 +1,1 @@
-# dmenu_web_pages
+## Web pages for privacy policy of digital menu
